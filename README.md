@@ -7,3 +7,4 @@
 Badhri1/Badhri1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![@badhri_14's Holopin board](https://holopin.me/badhri_14)](https://holopin.io/@badhri_14)
